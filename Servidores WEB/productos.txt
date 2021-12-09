@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Escuadra",
+        "price": 200,
+        "thumbnail": "https://m.media-amazon.com/images/I/61p81njdpvL._AC_SS450_.jpg"
+        id: 1
+    };
+    {
+        "title": "Regla",
+        "price": 500,
+        "thumbnail": "https://us.123rf.com/450wm/nikiteev/nikiteev1704/nikiteev170400033/76236810-vector-de-dibujos-animados-regla-verde-sobre-fondo-blanco.jpg?ver=6"
+        id: 2
+    };
+    {
+        "title": "Calculadora",
+        "price": 1500,
+        "thumbnail": "http://cdn.shopify.com/s/files/1/0516/7457/9096/products/unnamed_5.jpg?v=1612458409"
+        id: 3
+    };
+    
+]

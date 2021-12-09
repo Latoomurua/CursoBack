@@ -12,7 +12,7 @@ class Contenedor {
     async save( objeto ) {
         this.countID++;
         objeto["id"] = this.countID
-
+        
         this.lista.push(objeto)
 
         await this.write()
